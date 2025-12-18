@@ -31,7 +31,7 @@ Install the required libraries using `pip`:
 ```
 pip install pandas openpyxl 
 ```
-## Project Structure 
+### Project Structure 
 
 The project relies on a specific folder structure for inputs and outputs.
 ```
