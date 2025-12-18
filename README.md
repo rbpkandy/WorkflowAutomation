@@ -1,4 +1,4 @@
-## Data Automation Developer: Excel Workflow Streamlining
+## Data Automation: Excel Workflow Streamlining
 
 This repository contains the Python automation scripts designed to streamline payroll and HR data processing.
 
