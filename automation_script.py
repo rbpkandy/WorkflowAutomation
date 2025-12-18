@@ -4,8 +4,6 @@ from pathlib import Path
 from openpyxl import load_workbook, chart #Import load_workbook from openpyxl
 from datetime import datetime
 
-# --- 1. Configuration and Logging Setup ---
-
 #Root directory based on the script's location
 ROOT_DIR = Path(__file__).parent
 MASTER_DATA_DIR = ROOT_DIR / "master_data"
@@ -142,3 +140,4 @@ if __name__ == '__main__':
     print("\nStarting Excel Automation. Check the log file for details after completion.")
     
     main()
+
